@@ -1,0 +1,19 @@
+# Java class files
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Intellij IDEA
+*.iml
+.idea 
+
+# Maven
+target
+
+logs
